@@ -3,7 +3,7 @@
 ###  Desarrolladora Front End y Diseñadora UX/UI
 Aún en proceso de aprendizaje 👩🏻‍💻
 
-Manejo los siguientes lenguajes y herramientas: 
+Tengo conocimiento de los siguientes lenguajes y herramientas: 
 * HTML
 * CSS
 * Photoshop
