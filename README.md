@@ -14,3 +14,5 @@ Manejo los siguientes lenguajes y herramientas:
 * GitHub
 
 [![IgmarLS's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgmarLS)](https://github.com/IgmarLS/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgmarLS&layout=compact)](https://github.com/IgmarLS/github-readme-stats)
