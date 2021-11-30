@@ -12,3 +12,5 @@ Manejo los siguientes lenguajes y herramientas:
 * Adobe XD
 * Git
 * GitHub
+
+[![IgmarLS's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgmarLS)](https://github.com/IgmarLS/github-readme-stats)
